@@ -18,3 +18,5 @@ ETeach是一个来源的教学工具软件，使用Python编写，遵循Apache L
 很简单，你可以修改完代码后提交一个PR，或在Issues提出一个建议
 ## 我要怎么支持一个项目？
 可以给个Star，也可以宣传这个项目
+## 仓库链接
+<a href="https://github.com/mibino/eteach/edit/main/README.md">仓库链接</a>
