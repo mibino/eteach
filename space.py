@@ -17,12 +17,6 @@ neptune = Entity(model="sphere", texture="./img/neptune.png", scale=4.5, positio
 saturnring = Entity(model="cube", texture="./img/saturnring.png", scale=(10, 0, 10), position=(150, 0, 35))
 
 Text.default_font = 'font/DroidSansFallback.ttf'
-text2 = Text(text='按下m键切换鼠标锁定状态', origin=(2,-18), scale=1)
-
-def input(key):
-    if key == 'm':
-        mouse.locked = not mouse.locked
-        print(mouse.velocity)
 
 
 
