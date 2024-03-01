@@ -1,6 +1,6 @@
 # ETeach 教学工具
 ## 这是什么？
-ETeach是一个来源的教学工具软件，使用Python编写
+ETeach是一个来源的教学工具软件，使用Python编写，遵循Apache License 2.0开源协议
 ## 它支持什么操作系统？
 目前支持Windows,Linux,MacOS
 ## 我要怎么安装并使用它？
